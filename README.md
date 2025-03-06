@@ -1,3 +1,3 @@
 # PC
-i love my Pc 
+i love my PC
 i am in main branch
